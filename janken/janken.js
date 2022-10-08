@@ -67,6 +67,5 @@ function randomChoice(arr) {
  function reload(){
     window.location.reload();
  }
-
   
   
