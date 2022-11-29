@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Amethysta');
+body {
+    background-color: #e0fffb;
+    font-family: Amethysta, serif;
+}
+
+#count {
+  padding-bottom: 25px;
+  font-size: 54px;
+  font-weight: 500;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    margin-top: 100px;
+}
+.btnDiv {
+    display: flex;
+    gap: 26px;
+    margin-left: 10px;
+}
+button {
+ background-color: #783afb;
+ color: #fff;
+ font-family: Trebuchet MS;
+ font-size: 18px;
+ font-weight: 800;
+ font-style: normal;
+ text-decoration: none;
+ padding: 19px 11px;
+ border: 0px solid #000;
+ border-radius: 23px;
+ cursor: pointer;
+ width: 110px;
+ 
+}
+button:hover {
+    background-color: #7237ee;
+}
